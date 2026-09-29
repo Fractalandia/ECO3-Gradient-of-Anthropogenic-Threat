@@ -1,0 +1,1187 @@
+date,team,id_site,plot,species,scientific_name,ind,dap,uom,plot_uid,ind_uid
+2026-01-16,P/N,TDP,1,Molle,Schinus latifolia,1,9.549296585513721,cm,TDP_1,TDP_1_1
+2026-01-16,P/N,TDP,1,Molle,Schinus latifolia,1,9.549296585513721,cm,TDP_1,TDP_1_1
+2026-01-16,P/N,TDP,1,Molle,Schinus latifolia,2,6.8436625529515,cm,TDP_1,TDP_1_2
+2026-01-16,P/N,TDP,1,Molle,Schinus latifolia,2,6.684507609859605,cm,TDP_1,TDP_1_2
+2026-01-16,P/N,TDP,1,Molle,Schinus latifolia,2,5.411268065124442,cm,TDP_1,TDP_1_2
+2026-01-16,P/N,TDP,1,Peumo,Cryptocarya alba,3,13.36901521971921,cm,TDP_1,TDP_1_3
+2026-01-16,P/N,TDP,1,Boldo,Peumus boldus,4,3.660563691113593,cm,TDP_1,TDP_1_4
+2026-01-16,P/N,TDP,1,Corontillo,Escallonia pulverulenta,5,0.954929658551372,cm,TDP_1,TDP_1_5
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,2.5464790894703255,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,2.5464790894703255,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,1.7507043740108488,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,2.3873241463784303,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,1.5915494309189535,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,1.909859317102744,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,1.432394487827058,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,1.432394487827058,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,1,Palhúen,Adesmia confusa,6,2.0690142601946393,cm,TDP_1,TDP_1_6
+2026-01-16,P/N,TDP,2,Romerillo,Baccharis linearis,1,2.0690142601946393,cm,TDP_2,TDP_2_1
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,1,9.549296585513721,cm,TDP_3,TDP_3_1
+2026-01-16,P/N,TDP,3,Corontillo,Escallonia pulverulenta,2,0.954929658551372,cm,TDP_3,TDP_3_2
+2026-01-16,P/N,TDP,3,Corontillo,Escallonia pulverulenta,2,1.2732395447351628,cm,TDP_3,TDP_3_2
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,3,6.366197723675814,cm,TDP_3,TDP_3_3
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,3,6.366197723675814,cm,TDP_3,TDP_3_3
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,3,7.002817496043395,cm,TDP_3,TDP_3_3
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,3,7.321127382227186,cm,TDP_3,TDP_3_3
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,3,14.00563499208679,cm,TDP_3,TDP_3_3
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,4,15.915494309189533,cm,TDP_3,TDP_3_4
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,4,3.183098861837907,cm,TDP_3,TDP_3_4
+2026-01-16,P/N,TDP,3,Boldo,Peumus boldus,5,1.2732395447351628,cm,TDP_3,TDP_3_5
+2026-01-16,P/N,TDP,3,Boldo,Peumus boldus,5,11.140846016432674,cm,TDP_3,TDP_3_5
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,6,8.91267681314614,cm,TDP_3,TDP_3_6
+2026-01-16,P/N,TDP,3,Boldo,Peumus boldus,7,9.867606471697512,cm,TDP_3,TDP_3_7
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,8,12.732395447351628,cm,TDP_3,TDP_3_8
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,8,1.2732395447351628,cm,TDP_3,TDP_3_8
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,8,1.2732395447351628,cm,TDP_3,TDP_3_8
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,9,13.687325105903,cm,TDP_3,TDP_3_9
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,9,7.002817496043395,cm,TDP_3,TDP_3_9
+2026-01-16,P/N,TDP,3,Molle,Schinus latifolia,9,8.91267681314614,cm,TDP_3,TDP_3_9
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,10,5.092958178940651,cm,TDP_3,TDP_3_10
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,11,8.435211983870452,cm,TDP_3,TDP_3_11
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,12,10.185916357881302,cm,TDP_3,TDP_3_12
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,12,0.6366197723675814,cm,TDP_3,TDP_3_12
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,12,0.6366197723675814,cm,TDP_3,TDP_3_12
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,12,1.5915494309189535,cm,TDP_3,TDP_3_12
+2026-01-16,P/N,TDP,3,Peumo,Cryptocarya alba,13,8.435211983870452,cm,TDP_3,TDP_3_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,1,1.432394487827058,cm,VMCC_1,VMCC_1_1
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,2,3.660563691113593,cm,VMCC_1,VMCC_1_2
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,2,2.5464790894703255,cm,VMCC_1,VMCC_1_2
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,2,1.1140846016432675,cm,VMCC_1,VMCC_1_2
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,1.3687325105902999,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,1.7507043740108488,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,1.464225476445437,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,0.954929658551372,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,0.954929658551372,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,3,0.8594366926962349,cm,VMCC_1,VMCC_1_3
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,4,2.864788975654116,cm,VMCC_1,VMCC_1_4
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,5,3.819718634205488,cm,VMCC_1,VMCC_1_5
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,5,2.5464790894703255,cm,VMCC_1,VMCC_1_5
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,6,1.3050705333535417,cm,VMCC_1,VMCC_1_6
+2026-01-20,P/N/T,VMCC,1,SP2,Escallonia pulverulenta,7,1.432394487827058,cm,VMCC_1,VMCC_1_7
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,8,1.5597184423005745,cm,VMCC_1,VMCC_1_8
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,8,0.954929658551372,cm,VMCC_1,VMCC_1_8
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,1.7188733853924698,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,5.092958178940651,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,4.138028520389279,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,1.909859317102744,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,1.7507043740108488,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,4.7746482927568605,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,6.047887837492023,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,3.9788735772973833,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,6.207042780583918,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,3.3422538049298023,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,1.8461973398659859,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,2.5464790894703255,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,9,3.0239439187460113,cm,VMCC_1,VMCC_1_9
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,10,0.6366197723675814,cm,VMCC_1,VMCC_1_10
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,11,0.954929658551372,cm,VMCC_1,VMCC_1_11
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,11,0.9230986699329929,cm,VMCC_1,VMCC_1_11
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,11,0.7639437268410976,cm,VMCC_1,VMCC_1_11
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,0.6366197723675814,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,0.954929658551372,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.2732395447351628,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.2732395447351628,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.3687325105902999,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.3687325105902999,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.2732395447351628,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.2732395447351628,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,12,1.432394487827058,cm,VMCC_1,VMCC_1_12
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.954929658551372,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.7957747154594768,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,1.0504226244065091,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.6366197723675814,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.7002817496043395,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.6366197723675814,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.954929658551372,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,1.0185916357881302,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.6366197723675814,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.7957747154594768,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,13,0.954929658551372,cm,VMCC_1,VMCC_1_13
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,14,4.7746482927568605,cm,VMCC_1,VMCC_1_14
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,14,3.183098861837907,cm,VMCC_1,VMCC_1_14
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,1.909859317102744,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,1.909859317102744,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,0.7957747154594768,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,0.954929658551372,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,1.1140846016432675,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,0.7957747154594768,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,0.8276057040778558,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Trevo,Retanilla trinervia,15,0.954929658551372,cm,VMCC_1,VMCC_1_15
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,16,0.7957747154594768,cm,VMCC_1,VMCC_1_16
+2026-01-20,P/N/T,VMCC,1,Bollen,Kageneckia oblonga,16,4.265352474862795,cm,VMCC_1,VMCC_1_16
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,1.3687325105902999,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,0.8594366926962349,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,0.7957747154594768,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,0.954929658551372,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,1.2095775674984046,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,17,1.1140846016432675,cm,VMCC_1,VMCC_1_17
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.5915494309189535,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.5915494309189535,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.7507043740108488,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.5915494309189535,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.1459155902616465,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,1.1140846016432675,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,0.6366197723675814,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Mitique,Podanthus mitique,18,0.7957747154594768,cm,VMCC_1,VMCC_1_18
+2026-01-20,P/N/T,VMCC,1,Corontillo,Escallonia pulverulenta,19,0.7957747154594768,cm,VMCC_1,VMCC_1_19
+2026-01-20,P/N/T,VMCC,1,Corontillo,Escallonia pulverulenta,19,0.7321127382227185,cm,VMCC_1,VMCC_1_19
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,6.270704757820676,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,5.092958178940651,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,3.3422538049298023,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,2.228169203286535,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,3.5014087480216975,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,4.297183463481174,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,4.615493349664965,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,2.864788975654116,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,3.819718634205488,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,20,4.583662361046586,cm,VMCC_1,VMCC_1_20
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,3.5014087480216975,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,3.183098861837907,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,2.5464790894703255,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,3.819718634205488,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,2.228169203286535,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,4.138028520389279,cm,VMCC_1,VMCC_1_21
+2026-01-20,P/N/T,VMCC,1,Litre,Lithraea caustica,21,2.864788975654116,cm,VMCC_1,VMCC_1_21
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,1,5.443099053742821,cm,BDT_1,BDT_1_1
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,1,3.4695777594033186,cm,BDT_1,BDT_1_1
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,1,4.615493349664965,cm,BDT_1,BDT_1_1
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,0.6684507609859605,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,0.6366197723675814,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,1.0185916357881302,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,0.6366197723675814,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,0.9230986699329929,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,0.7321127382227185,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,2,1.0185916357881302,cm,BDT_1,BDT_1_2
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,3,2.3873241463784303,cm,BDT_1,BDT_1_3
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.9230986699329929,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.954929658551372,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.9230986699329929,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.8276057040778558,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.6366197723675814,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,0.6684507609859605,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,1.1459155902616465,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,4,1.432394487827058,cm,BDT_1,BDT_1_4
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,5,0.6684507609859605,cm,BDT_1,BDT_1_5
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,6,2.450986123615188,cm,BDT_1,BDT_1_6
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,6,1.3050705333535417,cm,BDT_1,BDT_1_6
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,6,1.0185916357881302,cm,BDT_1,BDT_1_6
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,6,0.7639437268410976,cm,BDT_1,BDT_1_6
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,7,0.7957747154594768,cm,BDT_1,BDT_1_7
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,7,0.8594366926962349,cm,BDT_1,BDT_1_7
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,7,0.8912676813146139,cm,BDT_1,BDT_1_7
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,7,0.9230986699329929,cm,BDT_1,BDT_1_7
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,7,0.8912676813146139,cm,BDT_1,BDT_1_7
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.8594366926962349,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.8594366926962349,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.1140846016432675,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.8912676813146139,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.464225476445437,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.7002817496043395,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.6366197723675814,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.7002817496043395,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,2.3873241463784303,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.6233804195373325,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.0822536130248883,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.1140846016432675,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.7002817496043395,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.0822536130248883,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.0822536130248883,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.0822536130248883,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,0.8912676813146139,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,2.928450952890874,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,1.941690305721123,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,2.291831180523293,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,8,2.641972055325463,cm,BDT_1,BDT_1_8
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,9,0.7957747154594768,cm,BDT_1,BDT_1_9
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,9,0.7321127382227185,cm,BDT_1,BDT_1_9
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,10,0.6684507609859605,cm,BDT_1,BDT_1_10
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,11,0.6366197723675814,cm,BDT_1,BDT_1_11
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,11,1.0822536130248883,cm,BDT_1,BDT_1_11
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,3.7242256683503507,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,6.7481695870963625,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,9.071831756238035,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,5.8250709171633694,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,6.270704757820676,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,5.952394871636885,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,7.066479473280153,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,3.883380611442246,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,5.283944110650926,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,0.8912676813146139,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,1.2732395447351628,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,0.6366197723675814,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,4.965634224467134,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,3.819718634205488,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,2.673803043943842,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,12,4.615493349664965,cm,BDT_1,BDT_1_12
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,3.851549622823867,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.5915494309189535,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.3687325105902999,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,0.7002817496043395,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,0.6684507609859605,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,0.6366197723675814,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.400563499208679,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,6.302535746439056,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.9735212943395024,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.0185916357881302,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,2.6101410667070835,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.0822536130248883,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,0.7639437268410976,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.9735212943395024,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,4.965634224467134,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,4.7746482927568605,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,3.214929850456286,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,3.9788735772973833,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,4.997465213085514,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,4.2016904976260365,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Boldo,Peumus boldus,13,1.400563499208679,cm,BDT_1,BDT_1_13
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,14,0.6366197723675814,cm,BDT_1,BDT_1_14
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,15,1.878028328484365,cm,BDT_1,BDT_1_15
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,15,2.3873241463784303,cm,BDT_1,BDT_1_15
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,15,3.5332397366400765,cm,BDT_1,BDT_1_15
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,16,0.954929658551372,cm,BDT_1,BDT_1_16
+2026-01-21,P/N/T,BDT,1,Zarza mora,Rosa rubiginosa,16,0.6366197723675814,cm,BDT_1,BDT_1_16
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,17,11.459155902616464,cm,BDT_1,BDT_1_17
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,17,14.00563499208679,cm,BDT_1,BDT_1_17
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,17,11.777465788800255,cm,BDT_1,BDT_1_17
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,17,9.994930426171027,cm,BDT_1,BDT_1_17
+2026-01-21,P/N/T,BDT,1,Litre,Lithraea caustica,17,13.432677196955968,cm,BDT_1,BDT_1_17
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,18,0.7321127382227185,cm,BDT_1,BDT_1_18
+2026-01-21,P/N/T,BDT,1,Corontillo,Escallonia pulverulenta,18,0.7002817496043395,cm,BDT_1,BDT_1_18
+2026-01-21,P/N/T,BDT,1,Bollen,Kageneckia oblonga,19,0.954929658551372,cm,BDT_1,BDT_1_19
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,4.138028520389279,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,2.3873241463784303,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,1.7188733853924698,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,1.5915494309189535,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,1.6552114081557117,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,0.954929658551372,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,2.5783100780887045,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,2.1645072260497766,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,2.0690142601946393,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,1.6233804195373325,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,3.183098861837907,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,1,1.5915494309189535,cm,BDT_2,BDT_2_1
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,2,1.1140846016432675,cm,BDT_2,BDT_2_2
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,3,0.9867606471697512,cm,BDT_2,BDT_2_3
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,1.0185916357881302,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,1.336901521971921,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,1.1140846016432675,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,1.0822536130248883,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,0.6366197723675814,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,1.2732395447351628,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,0.7321127382227185,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Quila,Chusquea quila,4,0.8912676813146139,cm,BDT_2,BDT_2_4
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,3.596901713876835,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,3.819718634205488,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,4.901972247230376,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,5.920563883018507,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,1.941690305721123,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,5.506761030979579,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,9.040000767619654,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,4.169859509007658,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,3.787887645587109,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Litre,Lithraea caustica,5,4.138028520389279,cm,BDT_2,BDT_2_5
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,1.2414085561167836,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7639437268410976,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7957747154594768,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.954929658551372,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,1.400563499208679,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7002817496043395,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,1.0504226244065091,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7957747154594768,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.6684507609859605,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7639437268410976,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,1.3050705333535417,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.7002817496043395,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Mayu,Sophora macrocarpa,6,0.8276057040778558,cm,BDT_2,BDT_2_6
+2026-01-21,P/N/T,BDT,2,Zarza mora,Rosa rubiginosa,7,0.7002817496043395,cm,BDT_2,BDT_2_7
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,3.119436884601149,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,5.8250709171633694,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,1.464225476445437,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,1.8461973398659859,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,1.7507043740108488,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,0.9230986699329929,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Radal,Lomatia hirsuta,8,1.2732395447351628,cm,BDT_2,BDT_2_8
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.0504226244065091,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.2732395447351628,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.400563499208679,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,0.8912676813146139,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,0.9230986699329929,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,0.954929658551372,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.400563499208679,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.2732395447351628,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,0.7639437268410976,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.0504226244065091,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,1.0822536130248883,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Maqui,Aristotelia chilensis,9,0.7639437268410976,cm,BDT_2,BDT_2_9
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,1.5597184423005745,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,0.7957747154594768,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,2.5783100780887045,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,3.151267873219528,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,0.8912676813146139,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,0.6366197723675814,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,1.400563499208679,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,0.7957747154594768,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,0.8594366926962349,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,1.3050705333535417,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,Arayan,Luma apiculata,10,1.2732395447351628,cm,BDT_2,BDT_2_10
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.673803043943842,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,1.464225476445437,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,3.0239439187460113,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.4191551349968092,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.450986123615188,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.0371832715762603,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.641972055325463,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.1645072260497766,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.228169203286535,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,SP4,Azara integrifolia,11,2.5464790894703255,cm,BDT_2,BDT_2_11
+2026-01-21,P/N/T,BDT,2,Tola blanca,Proustia pyrifolia,12,1.2095775674984046,cm,BDT_2,BDT_2_12
+2026-01-21,P/N/T,BDT,2,Tola blanca,Proustia pyrifolia,12,0.954929658551372,cm,BDT_2,BDT_2_12
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,8.6,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,6.4,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,7.7,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,3.9,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,8,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,5.8,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,4,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,3.6,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,9,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,9.2,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,3.4,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,5.5,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,3.2,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,5.8,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,6.4,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,3.6,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,6.8,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,6.4,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,1,5.3,cm,BDT_3,BDT_3_1
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,2,6.1,cm,BDT_3,BDT_3_2
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,5.1,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,7.8,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,6.5,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,6,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,6,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,8.4,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,3.8,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,4.3,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,3,3.7,cm,BDT_3,BDT_3_3
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,4,7,cm,BDT_3,BDT_3_4
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,4,4.7,cm,BDT_3,BDT_3_4
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,4,7.3,cm,BDT_3,BDT_3_4
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,4,4.6,cm,BDT_3,BDT_3_4
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,4.7,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,8.1,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,6.2,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,6.3,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,4.7,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,3.1,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,4.6,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,9.7,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,5.1,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,5,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,5.1,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,11.1,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,11.3,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,3.4,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Litre,Lithraea caustica,5,6.4,cm,BDT_3,BDT_3_5
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,3.2,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,3.4,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,4.3,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,4.5,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,4.7,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,6,4,cm,BDT_3,BDT_3_6
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,10.7,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,4.7,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,5.8,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,7.7,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,10,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,6.3,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,5.8,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,9.3,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,3.6,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,7,8,cm,BDT_3,BDT_3_7
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,8,5.3,cm,BDT_3,BDT_3_8
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,6,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,4,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,5.2,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,5,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,4.2,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,9,3.8,cm,BDT_3,BDT_3_9
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,10,4.2,cm,BDT_3,BDT_3_10
+2026-05-14,P/T,BDT,3,Naranjillo,Citronella mucronata,11,8.3,cm,BDT_3,BDT_3_11
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,7.7,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,5.2,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,3.2,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,5,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,3.8,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,5.1,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,7.2,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,4.2,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,12,3.4,cm,BDT_3,BDT_3_12
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,13,11.9,cm,BDT_3,BDT_3_13
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,13,8,cm,BDT_3,BDT_3_13
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,13,3.5,cm,BDT_3,BDT_3_13
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,13,7.9,cm,BDT_3,BDT_3_13
+2026-05-14,P/T,BDT,3,Peumo,Cryptocarya alba,13,7.4,cm,BDT_3,BDT_3_13
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,14,4.6,cm,BDT_3,BDT_3_14
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,14,5.3,cm,BDT_3,BDT_3_14
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,14,4.4,cm,BDT_3,BDT_3_14
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,15,4.2,cm,BDT_3,BDT_3_15
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,15,3.4,cm,BDT_3,BDT_3_15
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,15,4.7,cm,BDT_3,BDT_3_15
+2026-05-14,P/T,BDT,3,Piñol,Lomatia dentata,15,3.1,cm,BDT_3,BDT_3_15
+2026-05-14,P/T,BDT,3,Maquicillo,Azara petiolaris,16,3.6,cm,BDT_3,BDT_3_16
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,5.984225860255265,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,8.276057040778557,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,6.047887837492023,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,2.7374650211805998,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,4.7746482927568605,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,5.092958178940651,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,1.909859317102744,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,1.432394487827058,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,4.7746482927568605,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,6.684507609859605,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,0.954929658551372,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,1.1459155902616465,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,2.228169203286535,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,1.7507043740108488,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,1.432394487827058,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,0.7321127382227185,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Boldo,Peumus boldus,1,3.3422538049298023,cm,EA_1,EA_1_1
+2026-01-22,P/N,EA,1,Lingue,Persea lingue,2,97.72113505842374,cm,EA_1,EA_1_2
+2026-01-22,P/N,EA,1,Lingue,Persea lingue,3,36.28732702495214,cm,EA_1,EA_1_3
+2026-01-22,P/N,EA,1,Lingue,Persea lingue,3,10.504226244065093,cm,EA_1,EA_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,1,12.2,cm,EPR_1,EPR_1_1
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,1,7.1,cm,EPR_1,EPR_1_1
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,2,24.7,cm,EPR_1,EPR_1_2
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,2,7.3,cm,EPR_1,EPR_1_2
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,2,5.2,cm,EPR_1,EPR_1_2
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,22.3,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,10.9,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,17.6,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,12.8,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,15.4,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,7.6,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,15.2,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,3,14.4,cm,EPR_1,EPR_1_3
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,4,10.6,cm,EPR_1,EPR_1_4
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,5,16.5,cm,EPR_1,EPR_1_5
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,5,4.8,cm,EPR_1,EPR_1_5
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,6,17.1,cm,EPR_1,EPR_1_6
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,7,6.7,cm,EPR_1,EPR_1_7
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,8,4.6,cm,EPR_1,EPR_1_8
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,7,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,7.5,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,19,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,6.5,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,11.7,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Peumo,Cryptocarya alba,9,11.7,cm,EPR_1,EPR_1_9
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,10,3.3,cm,EPR_1,EPR_1_10
+2026-03-25,P/T,EPR,1,Litre,Lithraea caustica,11,3,cm,EPR_1,EPR_1_11
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,1,9.9,cm,EPR_2,EPR_2_1
+2026-03-25,P/T,EPR,2,Quillay,Quillaja saponaria,2,11,cm,EPR_2,EPR_2_2
+2026-03-25,P/T,EPR,2,Quillay,Quillaja saponaria,2,12.7,cm,EPR_2,EPR_2_2
+2026-03-25,P/T,EPR,2,Quillay,Quillaja saponaria,2,21.7,cm,EPR_2,EPR_2_2
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,3,11.1,cm,EPR_2,EPR_2_3
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,3,21.2,cm,EPR_2,EPR_2_3
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,3,14.4,cm,EPR_2,EPR_2_3
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,4,13.5,cm,EPR_2,EPR_2_4
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,4,18.7,cm,EPR_2,EPR_2_4
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,4,8.3,cm,EPR_2,EPR_2_4
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,4,18.2,cm,EPR_2,EPR_2_4
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,5,4.8,cm,EPR_2,EPR_2_5
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,5,3.6,cm,EPR_2,EPR_2_5
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,6,5.6,cm,EPR_2,EPR_2_6
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,6,3,cm,EPR_2,EPR_2_6
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,7,5.3,cm,EPR_2,EPR_2_7
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,7,4.7,cm,EPR_2,EPR_2_7
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,5.2,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,4.7,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,6.8,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,6.2,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,6,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Litre,Lithraea caustica,8,4.8,cm,EPR_2,EPR_2_8
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,9,8.6,cm,EPR_2,EPR_2_9
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,10,5.1,cm,EPR_2,EPR_2_10
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,10,14.1,cm,EPR_2,EPR_2_10
+2026-03-25,P/T,EPR,2,Peumo,Cryptocarya alba,10,8.1,cm,EPR_2,EPR_2_10
+2026-04-02,P/T,EPR,3,Quillay,Quillaja saponaria,1,13.6,cm,EPR_3,EPR_3_1
+2026-04-02,P,EPR,3,Litre,Lithraea caustica,2,8.3,cm,EPR_3,EPR_3_2
+2026-04-02,P,EPR,3,Litre,Lithraea caustica,2,5,cm,EPR_3,EPR_3_2
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,14.4,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,12.2,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,11.3,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,12.1,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,18.1,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,3.5,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,9.8,cm,EPR_3,EPR_3_3
+2026-04-02,P,EPR,3,Peumo,Cryptocarya alba,3,4,cm,EPR_3,EPR_3_3
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,1,5,cm,SJDP_1,SJDP_1_1
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,1,4.4,cm,SJDP_1,SJDP_1_1
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,1,9.5,cm,SJDP_1,SJDP_1_1
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,1,3.7,cm,SJDP_1,SJDP_1_1
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,1,4.1,cm,SJDP_1,SJDP_1_1
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,2,9,cm,SJDP_1,SJDP_1_2
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,3,9,cm,SJDP_1,SJDP_1_3
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,4,4.8,cm,SJDP_1,SJDP_1_4
+2026-03-26,P/T,SJDP,1,Litre,Lithraea caustica,5,8.1,cm,SJDP_1,SJDP_1_5
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,6,6.5,cm,SJDP_1,SJDP_1_6
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,6,5.8,cm,SJDP_1,SJDP_1_6
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,7,4.5,cm,SJDP_1,SJDP_1_7
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,7,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,9.2,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,7.3,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,7.2,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,4.6,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,6.4,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,8,6,cm,SJDP_1,SJDP_1_8
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,9,5.2,cm,SJDP_1,SJDP_1_9
+2026-03-26,P/T,SJDP,1,Boldo,Peumus boldus,9,6,cm,SJDP_1,SJDP_1_9
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,10,10.3,cm,SJDP_1,SJDP_1_10
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,10,11.4,cm,SJDP_1,SJDP_1_10
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,10,7.6,cm,SJDP_1,SJDP_1_10
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,10,10,cm,SJDP_1,SJDP_1_10
+2026-03-26,P/T,SJDP,1,Peumo,Cryptocarya alba,10,15.5,cm,SJDP_1,SJDP_1_10
+2026-03-26,P/T,SJDP,2,Roble de Santiago,Nothofagus macrocarpa,1,13.4,cm,SJDP_2,SJDP_2_1
+2026-03-26,P/T,SJDP,2,Roble de Santiago,Nothofagus macrocarpa,2,7.3,cm,SJDP_2,SJDP_2_2
+2026-03-26,P/T,SJDP,2,Roble de Santiago,Nothofagus macrocarpa,3,26.5,cm,SJDP_2,SJDP_2_3
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,4,4,cm,SJDP_2,SJDP_2_4
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,5,24.2,cm,SJDP_2,SJDP_2_5
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,5,3.2,cm,SJDP_2,SJDP_2_5
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,5,6.3,cm,SJDP_2,SJDP_2_5
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,6,3.1,cm,SJDP_2,SJDP_2_6
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,7,5,cm,SJDP_2,SJDP_2_7
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,7,5.7,cm,SJDP_2,SJDP_2_7
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,7,5.5,cm,SJDP_2,SJDP_2_7
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,7,6,cm,SJDP_2,SJDP_2_7
+2026-03-26,P/T,SJDP,2,Maquicillo,Azara petiolaris,7,3.5,cm,SJDP_2,SJDP_2_7
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,8,25.5,cm,SJDP_2,SJDP_2_8
+2026-03-26,P/T,SJDP,2,Naranjillo,Citronella mucronata,8,27.8,cm,SJDP_2,SJDP_2_8
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,9,7.7,cm,SJDP_2,SJDP_2_9
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,10,12.5,cm,SJDP_2,SJDP_2_10
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,10,13.8,cm,SJDP_2,SJDP_2_10
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,11,9.9,cm,SJDP_2,SJDP_2_11
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,11,9,cm,SJDP_2,SJDP_2_11
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,12,4.2,cm,SJDP_2,SJDP_2_12
+2026-03-26,P/T,SJDP,2,Litre,Lithraea caustica,13,7.6,cm,SJDP_2,SJDP_2_13
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,14,6,cm,SJDP_2,SJDP_2_14
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,15,9.3,cm,SJDP_2,SJDP_2_15
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,16,9,cm,SJDP_2,SJDP_2_16
+2026-03-26,P/T,SJDP,2,Peumo,Cryptocarya alba,17,11.2,cm,SJDP_2,SJDP_2_17
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,1,6.4,cm,SJDP_3,SJDP_3_1
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,2,5.2,cm,SJDP_3,SJDP_3_2
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,2,15.6,cm,SJDP_3,SJDP_3_2
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,3,7.8,cm,SJDP_3,SJDP_3_3
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,3,4.2,cm,SJDP_3,SJDP_3_3
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,4,3.2,cm,SJDP_3,SJDP_3_4
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,5,3.6,cm,SJDP_3,SJDP_3_5
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,6,3.4,cm,SJDP_3,SJDP_3_6
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,6,4.3,cm,SJDP_3,SJDP_3_6
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,6,5.5,cm,SJDP_3,SJDP_3_6
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,6,4.8,cm,SJDP_3,SJDP_3_6
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,6,5.8,cm,SJDP_3,SJDP_3_6
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,7,4.5,cm,SJDP_3,SJDP_3_7
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,8,6,cm,SJDP_3,SJDP_3_8
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,8,4.9,cm,SJDP_3,SJDP_3_8
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,9,5,cm,SJDP_3,SJDP_3_9
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,10,4.3,cm,SJDP_3,SJDP_3_10
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,10,5.3,cm,SJDP_3,SJDP_3_10
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,3.1,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,7.8,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,7.2,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,5.2,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,3.2,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Peumo,Cryptocarya alba,11,6.9,cm,SJDP_3,SJDP_3_11
+2026-03-26,P/T,SJDP,3,Roble de Santiago,Nothofagus macrocarpa,12,4.3,cm,SJDP_3,SJDP_3_12
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,1,3.1,cm,CVLL_1,CVLL_1_1
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,2,3.7,cm,CVLL_1,CVLL_1_2
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,3,3.8,cm,CVLL_1,CVLL_1_3
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,4,4.1,cm,CVLL_1,CVLL_1_4
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,5,3.7,cm,CVLL_1,CVLL_1_5
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,6,5.9,cm,CVLL_1,CVLL_1_6
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,7,3.8,cm,CVLL_1,CVLL_1_7
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,8,3.2,cm,CVLL_1,CVLL_1_8
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,9,14.1,cm,CVLL_1,CVLL_1_9
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,9,14.9,cm,CVLL_1,CVLL_1_9
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,9,12.7,cm,CVLL_1,CVLL_1_9
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,10,4.9,cm,CVLL_1,CVLL_1_10
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,11,3.6,cm,CVLL_1,CVLL_1_11
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,12,3.7,cm,CVLL_1,CVLL_1_12
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,13,4.9,cm,CVLL_1,CVLL_1_13
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,14,5.4,cm,CVLL_1,CVLL_1_14
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,15,4,cm,CVLL_1,CVLL_1_15
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,16,6.2,cm,CVLL_1,CVLL_1_16
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,17,4.3,cm,CVLL_1,CVLL_1_17
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,18,4.4,cm,CVLL_1,CVLL_1_18
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,19,3.7,cm,CVLL_1,CVLL_1_19
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,20,5.5,cm,CVLL_1,CVLL_1_20
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,21,5.7,cm,CVLL_1,CVLL_1_21
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,22,3.7,cm,CVLL_1,CVLL_1_22
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,23,3.4,cm,CVLL_1,CVLL_1_23
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,24,3.5,cm,CVLL_1,CVLL_1_24
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,13.2,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,13.5,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,12.8,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,14.8,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,5.4,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,4.9,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,25,10.8,cm,CVLL_1,CVLL_1_25
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,26,3.9,cm,CVLL_1,CVLL_1_26
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,27,7.6,cm,CVLL_1,CVLL_1_27
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,28,4.2,cm,CVLL_1,CVLL_1_28
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,29,4.7,cm,CVLL_1,CVLL_1_29
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,30,4.8,cm,CVLL_1,CVLL_1_30
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,31,3.5,cm,CVLL_1,CVLL_1_31
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,32,3.6,cm,CVLL_1,CVLL_1_32
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,33,5.1,cm,CVLL_1,CVLL_1_33
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,34,4.4,cm,CVLL_1,CVLL_1_34
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,35,4.9,cm,CVLL_1,CVLL_1_35
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,36,6.7,cm,CVLL_1,CVLL_1_36
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,37,4.5,cm,CVLL_1,CVLL_1_37
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,38,3.1,cm,CVLL_1,CVLL_1_38
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,39,3.6,cm,CVLL_1,CVLL_1_39
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,40,5.5,cm,CVLL_1,CVLL_1_40
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,41,4.6,cm,CVLL_1,CVLL_1_41
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,42,3.5,cm,CVLL_1,CVLL_1_42
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,43,5.4,cm,CVLL_1,CVLL_1_43
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,44,4.1,cm,CVLL_1,CVLL_1_44
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,45,4.3,cm,CVLL_1,CVLL_1_45
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,46,6,cm,CVLL_1,CVLL_1_46
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,47,3.5,cm,CVLL_1,CVLL_1_47
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,48,3,cm,CVLL_1,CVLL_1_48
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,49,7.6,cm,CVLL_1,CVLL_1_49
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,50,4,cm,CVLL_1,CVLL_1_50
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,51,3.7,cm,CVLL_1,CVLL_1_51
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,52,3.2,cm,CVLL_1,CVLL_1_52
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,53,3,cm,CVLL_1,CVLL_1_53
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,54,3.6,cm,CVLL_1,CVLL_1_54
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,55,3,cm,CVLL_1,CVLL_1_55
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,56,3.6,cm,CVLL_1,CVLL_1_56
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,57,3.1,cm,CVLL_1,CVLL_1_57
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,58,4.9,cm,CVLL_1,CVLL_1_58
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,59,3.4,cm,CVLL_1,CVLL_1_59
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,60,3.2,cm,CVLL_1,CVLL_1_60
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,61,5.7,cm,CVLL_1,CVLL_1_61
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,62,3.2,cm,CVLL_1,CVLL_1_62
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,63,14.4,cm,CVLL_1,CVLL_1_63
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,64,4.3,cm,CVLL_1,CVLL_1_64
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,65,3.2,cm,CVLL_1,CVLL_1_65
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,66,20.4,cm,CVLL_1,CVLL_1_66
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,67,6.9,cm,CVLL_1,CVLL_1_67
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,68,3.3,cm,CVLL_1,CVLL_1_68
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,69,28.1,cm,CVLL_1,CVLL_1_69
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,70,3.5,cm,CVLL_1,CVLL_1_70
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,71,9.6,cm,CVLL_1,CVLL_1_71
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,71,17.4,cm,CVLL_1,CVLL_1_71
+2026-04-13,P/T,CVLL,1,Eucaliptus_CVLL1,Eucalyptus globulus,72,4.3,cm,CVLL_1,CVLL_1_72
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,73,3.2,cm,CVLL_1,CVLL_1_73
+2026-04-13,P/T,CVLL,1,Pino insigne,Pinus radiata,74,3.1,cm,CVLL_1,CVLL_1_74
+2026-04-13,P/T,CVLL,2,Corontillo,Escallonia pulverulenta,1,3.1,cm,CVLL_2,CVLL_2_1
+2026-04-13,P/T,CVLL,2,Pino insigne,Pinus radiata,2,4.4,cm,CVLL_2,CVLL_2_2
+2026-04-13,P/T,CVLL,2,Pino insigne,Pinus radiata,3,6.3,cm,CVLL_2,CVLL_2_3
+2026-04-13,P/T,CVLL,2,CVLL2.1,Azara celastrina,4,3.2,cm,CVLL_2,CVLL_2_4
+2026-04-13,P/T,CVLL,2,Pino insigne,Pinus radiata,5,20.8,cm,CVLL_2,CVLL_2_5
+2026-04-13,P/T,CVLL,2,Pino insigne,Pinus radiata,6,7.3,cm,CVLL_2,CVLL_2_6
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,1,3.8,cm,CVLL_3,CVLL_3_1
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,2,4.4,cm,CVLL_3,CVLL_3_2
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,3,3.2,cm,CVLL_3,CVLL_3_3
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,4,4.1,cm,CVLL_3,CVLL_3_4
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,5,3.6,cm,CVLL_3,CVLL_3_5
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,6,6,cm,CVLL_3,CVLL_3_6
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,7,5.8,cm,CVLL_3,CVLL_3_7
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,8,3.2,cm,CVLL_3,CVLL_3_8
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,9,3,cm,CVLL_3,CVLL_3_9
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,10,4.3,cm,CVLL_3,CVLL_3_10
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,11,4.3,cm,CVLL_3,CVLL_3_11
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,12,4.3,cm,CVLL_3,CVLL_3_12
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,13,3.5,cm,CVLL_3,CVLL_3_13
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,14,3.1,cm,CVLL_3,CVLL_3_14
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,15,5,cm,CVLL_3,CVLL_3_15
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,16,3.9,cm,CVLL_3,CVLL_3_16
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,17,3,cm,CVLL_3,CVLL_3_17
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,18,4.4,cm,CVLL_3,CVLL_3_18
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,19,6,cm,CVLL_3,CVLL_3_19
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,20,6.7,cm,CVLL_3,CVLL_3_20
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,21,6.4,cm,CVLL_3,CVLL_3_21
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,22,6,cm,CVLL_3,CVLL_3_22
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,23,6.6,cm,CVLL_3,CVLL_3_23
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,24,5.9,cm,CVLL_3,CVLL_3_24
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,25,8.6,cm,CVLL_3,CVLL_3_25
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,26,6.8,cm,CVLL_3,CVLL_3_26
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,27,4.9,cm,CVLL_3,CVLL_3_27
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,28,5.8,cm,CVLL_3,CVLL_3_28
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,29,3.3,cm,CVLL_3,CVLL_3_29
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,30,6.5,cm,CVLL_3,CVLL_3_30
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,31,6.5,cm,CVLL_3,CVLL_3_31
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,32,8.5,cm,CVLL_3,CVLL_3_32
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,33,5.6,cm,CVLL_3,CVLL_3_33
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,34,3.1,cm,CVLL_3,CVLL_3_34
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,35,12.2,cm,CVLL_3,CVLL_3_35
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,36,5.5,cm,CVLL_3,CVLL_3_36
+2026-04-14,P/T,CVLL,3,Boldo,Peumus boldus,37,3.1,cm,CVLL_3,CVLL_3_37
+2026-04-14,P/T,CVLL,3,Boldo,Peumus boldus,37,3.4,cm,CVLL_3,CVLL_3_37
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,38,4.5,cm,CVLL_3,CVLL_3_38
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,38,4.9,cm,CVLL_3,CVLL_3_38
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,39,4.6,cm,CVLL_3,CVLL_3_39
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,40,8.8,cm,CVLL_3,CVLL_3_40
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,41,7.4,cm,CVLL_3,CVLL_3_41
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,41,6.3,cm,CVLL_3,CVLL_3_41
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,41,7,cm,CVLL_3,CVLL_3_41
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,42,12.4,cm,CVLL_3,CVLL_3_42
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,42,5.9,cm,CVLL_3,CVLL_3_42
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,43,8.5,cm,CVLL_3,CVLL_3_43
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,44,9.5,cm,CVLL_3,CVLL_3_44
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,45,7.7,cm,CVLL_3,CVLL_3_45
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,46,5.9,cm,CVLL_3,CVLL_3_46
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,47,7.6,cm,CVLL_3,CVLL_3_47
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,48,4.5,cm,CVLL_3,CVLL_3_48
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,49,7.8,cm,CVLL_3,CVLL_3_49
+2026-04-14,P/T,CVLL,3,Pino insigne,Pinus radiata,50,5.1,cm,CVLL_3,CVLL_3_50
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,1,21.1,cm,PILC_1,PILC_1_1
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,2,25.8,cm,PILC_1,PILC_1_2
+2026-04-14,P/T,PILC,1,Peumo,Cryptocarya alba,3,3,cm,PILC_1,PILC_1_3
+2026-04-14,P/T,PILC,1,Peumo,Cryptocarya alba,3,3.3,cm,PILC_1,PILC_1_3
+2026-04-14,P/T,PILC,1,Peumo,Cryptocarya alba,3,3.2,cm,PILC_1,PILC_1_3
+2026-04-14,P/T,PILC,1,Peumo,Cryptocarya alba,3,4.5,cm,PILC_1,PILC_1_3
+2026-04-14,P/T,PILC,1,Peumo,Cryptocarya alba,3,4.4,cm,PILC_1,PILC_1_3
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,4,30.3,cm,PILC_1,PILC_1_4
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,5,34.4,cm,PILC_1,PILC_1_5
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,6,32.5,cm,PILC_1,PILC_1_6
+2026-04-14,P/T,PILC,1,Pino insigne,Pinus radiata,7,26,cm,PILC_1,PILC_1_7
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,1,19.4,cm,PILC_2,PILC_2_1
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,2,27.2,cm,PILC_2,PILC_2_2
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,3,35.2,cm,PILC_2,PILC_2_3
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,4,26.8,cm,PILC_2,PILC_2_4
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,5,21.8,cm,PILC_2,PILC_2_5
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,6,36.1,cm,PILC_2,PILC_2_6
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,7,20.5,cm,PILC_2,PILC_2_7
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,8,30.9,cm,PILC_2,PILC_2_8
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,9,26.3,cm,PILC_2,PILC_2_9
+2026-04-14,P/T,PILC,2,Pino insigne,Pinus radiata,10,22.2,cm,PILC_2,PILC_2_10
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,1,35.7,cm,PILC_3,PILC_3_1
+2026-04-14,P/T,PILC,3,Peumo,Cryptocarya alba,2,3.5,cm,PILC_3,PILC_3_2
+2026-04-14,P/T,PILC,3,Peumo,Cryptocarya alba,2,3,cm,PILC_3,PILC_3_2
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,3,27,cm,PILC_3,PILC_3_3
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,4,25.3,cm,PILC_3,PILC_3_4
+2026-04-14,P/T,PILC,3,Peumo,Cryptocarya alba,5,5.3,cm,PILC_3,PILC_3_5
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,6,27.5,cm,PILC_3,PILC_3_6
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,7,25.2,cm,PILC_3,PILC_3_7
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,8,35.2,cm,PILC_3,PILC_3_8
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,9,24.8,cm,PILC_3,PILC_3_9
+2026-04-14,P/T,PILC,3,Pino insigne,Pinus radiata,10,32.7,cm,PILC_3,PILC_3_10
+2026-04-14,P/T,PILC,3,Corontillo,Escallonia pulverulenta,11,3.1,cm,PILC_3,PILC_3_11
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,15.4,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,13.5,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,10.8,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,14.6,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,15.2,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,15.6,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,10.8,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Quisco,Leucostele chiloensis,1,14.7,cm,ACOG_1,ACOG_1_1
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,2,3.5,cm,ACOG_1,ACOG_1_2
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,2,3.3,cm,ACOG_1,ACOG_1_2
+2026-04-27,P/T,ACOG,1,Colliguay,Colliguaja odorifera,3,6.8,cm,ACOG_1,ACOG_1_3
+2026-04-27,P/T,ACOG,1,Colliguay,Colliguaja odorifera,3,4,cm,ACOG_1,ACOG_1_3
+2026-04-27,P/T,ACOG,1,Colliguay,Colliguaja odorifera,4,3,cm,ACOG_1,ACOG_1_4
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,6.2,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,5.6,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,4.5,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,7.5,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,4.1,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,6.5,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,7.3,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,4.2,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,5.5,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,4.6,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,1,Litre,Lithraea caustica,5,4,cm,ACOG_1,ACOG_1_5
+2026-04-27,P/T,ACOG,2,Quillay,Quillaja saponaria,1,3.2,cm,ACOG_2,ACOG_2_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,13.2,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,13.3,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,9,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,13.4,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,9.5,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Peumo,Cryptocarya alba,1,10.6,cm,CH_1,CH_1_1
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,19.8,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,4.3,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,12.5,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,3.3,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,17.2,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,11.5,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,6,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,14.1,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,2,12.2,cm,CH_1,CH_1_2
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,3,12.2,cm,CH_1,CH_1_3
+2026-04-28,P/T,CH,1,Quillay,Quillaja saponaria,3,17.3,cm,CH_1,CH_1_3
+2026-04-28,P/T,CH,1,Litre,Lithraea caustica,4,32.5,cm,CH_1,CH_1_4
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,1,14.7,cm,CH_2,CH_2_1
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,1,15.9,cm,CH_2,CH_2_1
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,2,4.3,cm,CH_2,CH_2_2
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,2,5.3,cm,CH_2,CH_2_2
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,2,4.5,cm,CH_2,CH_2_2
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,2,4,cm,CH_2,CH_2_2
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,3,17.4,cm,CH_2,CH_2_3
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,3,24.5,cm,CH_2,CH_2_3
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,3,16,cm,CH_2,CH_2_3
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,3,11.8,cm,CH_2,CH_2_3
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,4,3.1,cm,CH_2,CH_2_4
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,5,11,cm,CH_2,CH_2_5
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,6,5.7,cm,CH_2,CH_2_6
+2026-04-28,P/T,CH,2,Molle,Schinus latifolia,7,3.1,cm,CH_2,CH_2_7
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,8,3.8,cm,CH_2,CH_2_8
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,8,3.3,cm,CH_2,CH_2_8
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,8,4.2,cm,CH_2,CH_2_8
+2026-04-28,P/T,CH,2,Quillay,Quillaja saponaria,9,12,cm,CH_2,CH_2_9
+2026-04-28,P/T,CH,2,Maquicillo,Azara petiolaris,10,4.3,cm,CH_2,CH_2_10
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,1,7,cm,CH_3,CH_3_1
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,1,6.3,cm,CH_3,CH_3_1
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,1,3,cm,CH_3,CH_3_1
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,1,6.8,cm,CH_3,CH_3_1
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,4.8,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,5.9,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,6.4,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,14.7,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,6.1,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,5.6,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,11.8,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,3.9,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,6.8,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,3.6,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,4.3,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,2,4.2,cm,CH_3,CH_3_2
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,3,12.4,cm,CH_3,CH_3_3
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,3,14,cm,CH_3,CH_3_3
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,3,17.6,cm,CH_3,CH_3_3
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,3,5.2,cm,CH_3,CH_3_3
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,4,9,cm,CH_3,CH_3_4
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,4,6.5,cm,CH_3,CH_3_4
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,4,7,cm,CH_3,CH_3_4
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,4,7,cm,CH_3,CH_3_4
+2026-04-29,P/T,CH,3,Boldo,Peumus boldus,4,6.9,cm,CH_3,CH_3_4
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,5,3.1,cm,CH_3,CH_3_5
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,6,16.9,cm,CH_3,CH_3_6
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,6,11.1,cm,CH_3,CH_3_6
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,6,8.7,cm,CH_3,CH_3_6
+2026-04-29,P/T,CH,3,Quillay,Quillaja saponaria,7,33.5,cm,CH_3,CH_3_7
+2026-04-29,P/T,CH,3,Quillay,Quillaja saponaria,7,20.9,cm,CH_3,CH_3_7
+2026-04-29,P/T,CH,3,Quillay,Quillaja saponaria,7,29.5,cm,CH_3,CH_3_7
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,8,3.2,cm,CH_3,CH_3_8
+2026-04-29,P/T,CH,3,Peumo,Cryptocarya alba,9,3,cm,CH_3,CH_3_9
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,1,3.9,cm,LP_1,LP_1_1
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,2,4.6,cm,LP_1,LP_1_2
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,2,3.9,cm,LP_1,LP_1_2
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,2,3.7,cm,LP_1,LP_1_2
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,2,5,cm,LP_1,LP_1_2
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,2,3.2,cm,LP_1,LP_1_2
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,3,3.4,cm,LP_1,LP_1_3
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,4,3.7,cm,LP_1,LP_1_4
+2026-04-30,P/T,LP,1,Quillay,Quillaja saponaria,4,4,cm,LP_1,LP_1_4
+2026-04-30,P/T,LP,1,Corontillo,Escallonia pulverulenta,5,3.2,cm,LP_1,LP_1_5
+2026-04-30,P/T,LP,1,Corontillo,Escallonia pulverulenta,5,3,cm,LP_1,LP_1_5
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,11.6,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,15.1,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,21.5,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,24,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,7.3,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Boldo,Peumus boldus,1,7.8,cm,LP_2,LP_2_1
+2026-04-30,P/T,LP,2,Molle,Schinus latifolia,2,5.4,cm,LP_2,LP_2_2
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,1,4.8,cm,LP_3,LP_3_1
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,1,5.3,cm,LP_3,LP_3_1
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,2,4.1,cm,LP_3,LP_3_2
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,3,3.7,cm,LP_3,LP_3_3
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,3,3.7,cm,LP_3,LP_3_3
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,4,3.8,cm,LP_3,LP_3_4
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,4,3.6,cm,LP_3,LP_3_4
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,5,3.2,cm,LP_3,LP_3_5
+2026-04-30,P/T,LP,3,Eucaliptus,Eucalyptus globulus,5,4.1,cm,LP_3,LP_3_5
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,6,4.1,cm,LP_3,LP_3_6
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,6,4.3,cm,LP_3,LP_3_6
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,6,5.2,cm,LP_3,LP_3_6
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,6,5.4,cm,LP_3,LP_3_6
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,7,9.9,cm,LP_3,LP_3_7
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,7,10.5,cm,LP_3,LP_3_7
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,7,7.8,cm,LP_3,LP_3_7
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,8,4.1,cm,LP_3,LP_3_8
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,8,6.2,cm,LP_3,LP_3_8
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,8,7.2,cm,LP_3,LP_3_8
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,9,4.9,cm,LP_3,LP_3_9
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,9,6.5,cm,LP_3,LP_3_9
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,9,6.6,cm,LP_3,LP_3_9
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,9,4,cm,LP_3,LP_3_9
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,10,4.6,cm,LP_3,LP_3_10
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,10,4.1,cm,LP_3,LP_3_10
+2026-04-30,P/T,LP,3,Aromo,Acacia dealbata,10,3.7,cm,LP_3,LP_3_10
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,4,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,4.2,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,4,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,3.4,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,5,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,6.5,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,3.5,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,3,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,1,Litre,Lithraea caustica,1,4,cm,CLVR_1,CLVR_1_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,5.6,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,5.2,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,9.6,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,5.8,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,8.2,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,5.2,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,9,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,4.4,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,5.3,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,6.6,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,8.7,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,8.7,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,1,4.5,cm,CLVR_2,CLVR_2_1
+2026-05-12,P/T,CLVR,2,Trevo,Retanilla trinervia,2,4,cm,CLVR_2,CLVR_2_2
+2026-05-12,P/T,CLVR,2,Trevo,Retanilla trinervia,2,3.4,cm,CLVR_2,CLVR_2_2
+2026-05-12,P/T,CLVR,2,Trevo,Retanilla trinervia,2,4.5,cm,CLVR_2,CLVR_2_2
+2026-05-12,P/T,CLVR,2,Trevo,Retanilla trinervia,2,3.3,cm,CLVR_2,CLVR_2_2
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,3.8,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,4.1,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,3.5,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,6,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,4.1,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,5,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,4,cm,CLVR_2,CLVR_2_3
+2026-05-12,P/T,CLVR,2,Espino,Vachellia caven,3,6.1,cm,CLVR_2,CLVR_2_3
+2026-05-13,P/T,CLVR,3,Trevo,Retanilla trinervia,1,4.8,cm,CLVR_3,CLVR_3_1
+2026-05-13,P/T,CLVR,3,Trevo,Retanilla trinervia,1,5,cm,CLVR_3,CLVR_3_1
+2026-05-13,P/T,CLVR,3,Trevo,Retanilla trinervia,1,3.2,cm,CLVR_3,CLVR_3_1
+2026-05-13,P/T,CLVR,3,Trevo,Retanilla trinervia,1,4,cm,CLVR_3,CLVR_3_1
+2026-05-13,P/T,CLVR,3,Trevo,Retanilla trinervia,2,3.4,cm,CLVR_3,CLVR_3_2
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,8.9,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,9,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,4.1,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,10.5,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,11.6,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,12.3,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,9.4,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,6.6,cm,CLVR_3,CLVR_3_3
+2026-05-13,P/T,CLVR,3,Espino,Vachellia caven,3,4,cm,CLVR_3,CLVR_3_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.1,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,5,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,3.2,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,7.5,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.3,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,3.7,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.7,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.5,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,3.3,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.2,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,3.3,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,4.4,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,1,3.9,cm,QDM_1,QDM_1_1
+2026-05-27,P/T,QDM,1,Litre,Lithraea caustica,2,3.6,cm,QDM_1,QDM_1_2
+2026-05-27,P/T,QDM,1,Litre,Lithraea caustica,2,4.1,cm,QDM_1,QDM_1_2
+2026-05-27,P/T,QDM,1,Litre,Lithraea caustica,2,7.8,cm,QDM_1,QDM_1_2
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,7,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.3,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,7,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.4,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.6,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.7,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,3.9,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.4,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,4.1,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,3.1,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,5.5,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,5.7,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,3,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,3,3.6,cm,QDM_1,QDM_1_3
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,3,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,4,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,4.4,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,4,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,6.7,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,4,3.8,cm,QDM_1,QDM_1_4
+2026-05-27,P/T,QDM,1,Bollen,Kageneckia oblonga,5,3,cm,QDM_1,QDM_1_5
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.1,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.3,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.1,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.1,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,4.2,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.6,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.4,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,1,3.3,cm,QDM_2,QDM_2_1
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,2,5.5,cm,QDM_2,QDM_2_2
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,2,5,cm,QDM_2,QDM_2_2
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,5.8,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,6.4,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,5.1,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,4.6,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,3.6,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,3,3.1,cm,QDM_2,QDM_2_3
+2026-05-27,P/T,QDM,2,Bollen,Kageneckia oblonga,4,3.2,cm,QDM_2,QDM_2_4
+2026-05-27,P/T,QDM,2,Quillay,Quillaja saponaria,5,12.4,cm,QDM_2,QDM_2_5
+2026-05-27,P/T,QDM,2,Quillay,Quillaja saponaria,5,32.5,cm,QDM_2,QDM_2_5
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,1,3,cm,QDM_3,QDM_3_1
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,1,3,cm,QDM_3,QDM_3_1
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,2,5,cm,QDM_3,QDM_3_2
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,2,3.9,cm,QDM_3,QDM_3_2
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,3,4.5,cm,QDM_3,QDM_3_3
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,3,3.3,cm,QDM_3,QDM_3_3
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,4,4.4,cm,QDM_3,QDM_3_4
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,4,3.2,cm,QDM_3,QDM_3_4
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,5,5,cm,QDM_3,QDM_3_5
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,4,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,4,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,3.8,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,4.1,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,3.9,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,6,5,cm,QDM_3,QDM_3_6
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,7,3.2,cm,QDM_3,QDM_3_7
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,7,3,cm,QDM_3,QDM_3_7
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,8,3.6,cm,QDM_3,QDM_3_8
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,8,3.4,cm,QDM_3,QDM_3_8
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,8,5,cm,QDM_3,QDM_3_8
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,9,6.5,cm,QDM_3,QDM_3_9
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,9,4.6,cm,QDM_3,QDM_3_9
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,9,4,cm,QDM_3,QDM_3_9
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,9,7,cm,QDM_3,QDM_3_9
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,10,7.6,cm,QDM_3,QDM_3_10
+2026-05-28,P/T,QDM,3,Litre,Lithraea caustica,10,7.5,cm,QDM_3,QDM_3_10
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,11,4.5,cm,QDM_3,QDM_3_11
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,11,3.2,cm,QDM_3,QDM_3_11
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,12,4.2,cm,QDM_3,QDM_3_12
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,12,3,cm,QDM_3,QDM_3_12
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,12,3.1,cm,QDM_3,QDM_3_12
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,12,3.3,cm,QDM_3,QDM_3_12
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,12,3.9,cm,QDM_3,QDM_3_12
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,13,4.7,cm,QDM_3,QDM_3_13
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,14,4,cm,QDM_3,QDM_3_14
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,14,3.4,cm,QDM_3,QDM_3_14
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,14,3,cm,QDM_3,QDM_3_14
+2026-05-28,P/T,QDM,3,Bollen,Kageneckia oblonga,14,3.3,cm,QDM_3,QDM_3_14
+2026-07-07,P/T,EMV,1,Quillay,Quillaja saponaria,1,25.9,cm,EMV_1,EMV_1_1
+2026-07-07,P/T,EMV,1,Quillay,Quillaja saponaria,1,35.9,cm,EMV_1,EMV_1_1
+2026-07-07,P/T,EMV,1,Quillay,Quillaja saponaria,1,11.5,cm,EMV_1,EMV_1_1
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,2,6.4,cm,EMV_1,EMV_1_2
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,2,4.5,cm,EMV_1,EMV_1_2
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,2,3,cm,EMV_1,EMV_1_2
+2026-07-07,P/T,EMV,1,Molle,Schinus latifolia,3,6.3,cm,EMV_1,EMV_1_3
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,4.1,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.2,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,6,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,5.8,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,6.4,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,4.6,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.4,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,4.2,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.4,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,5.2,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.5,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,4.9,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.2,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.5,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,4,3.1,cm,EMV_1,EMV_1_4
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,5,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,5.7,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,3.4,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,4.3,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,3.1,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,7,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,7,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,3.2,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Boldo,Peumus boldus,5,5.3,cm,EMV_1,EMV_1_5
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,6,4.2,cm,EMV_1,EMV_1_6
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,6,3.1,cm,EMV_1,EMV_1_6
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,6,4.5,cm,EMV_1,EMV_1_6
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,6,4.4,cm,EMV_1,EMV_1_6
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,6,3.6,cm,EMV_1,EMV_1_6
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,7,3.8,cm,EMV_1,EMV_1_7
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,7,3,cm,EMV_1,EMV_1_7
+2026-07-07,P/T,EMV,1,Maquicillo,Azara petiolaris,7,3.1,cm,EMV_1,EMV_1_7
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,3.3,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,6.9,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,6,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,3.4,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,4.2,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,4.7,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,4.9,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,1,4.3,cm,EMV_2,EMV_2_1
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,5.8,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,7.9,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,9.1,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,4.9,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,5.4,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,2,7.8,cm,EMV_2,EMV_2_2
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3.4,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,8.3,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3.7,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3.2,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,6.3,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3.1,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,4,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,3.7,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,5.6,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,3,7.1,cm,EMV_2,EMV_2_3
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,4,7.2,cm,EMV_2,EMV_2_4
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,4,3.2,cm,EMV_2,EMV_2_4
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,4,5.7,cm,EMV_2,EMV_2_4
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,4.7,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,4.7,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,5.1,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,7.1,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,4.9,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,5.6,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,4.3,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,3.6,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,5,4.2,cm,EMV_2,EMV_2_5
+2026-07-07,P/T,EMV,2,Litre,Lithraea caustica,6,3.5,cm,EMV_2,EMV_2_6
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,7,4.5,cm,EMV_2,EMV_2_7
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,4,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,5.1,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,3.3,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,3.3,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,3.3,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,3.4,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,5.6,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,4.5,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,5.2,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,5.1,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,3.6,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,8,4.3,cm,EMV_2,EMV_2_8
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,9,5.7,cm,EMV_2,EMV_2_9
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,10,5.6,cm,EMV_2,EMV_2_10
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,11,4.3,cm,EMV_2,EMV_2_11
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,11,4.4,cm,EMV_2,EMV_2_11
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,11,7.8,cm,EMV_2,EMV_2_11
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,11,5.4,cm,EMV_2,EMV_2_11
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,11,6.4,cm,EMV_2,EMV_2_11
+2026-07-07,P/T,EMV,2,Corontillo,Escallonia pulverulenta,12,3.7,cm,EMV_2,EMV_2_12
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,3.8,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,3.1,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,3.4,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,4,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,7.4,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,13,7.2,cm,EMV_2,EMV_2_13
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,14,6.9,cm,EMV_2,EMV_2_14
+2026-07-07,P/T,EMV,2,Maquicillo,Azara petiolaris,14,4.9,cm,EMV_2,EMV_2_14
+2026-07-07,P/T,EMV,2,Litre,Lithraea caustica,15,3.3,cm,EMV_2,EMV_2_15
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,16,5.5,cm,EMV_2,EMV_2_16
+2026-07-07,P/T,EMV,2,Peumo,Cryptocarya alba,16,4.4,cm,EMV_2,EMV_2_16
+2026-07-08,P/T,EMV,3,Maquicillo,Azara petiolaris,1,20,cm,EMV_3,EMV_3_1
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,2,5.5,cm,EMV_3,EMV_3_2
+2026-07-08,P/T,EMV,3,Boldo,Peumus boldus,3,7.2,cm,EMV_3,EMV_3_3
+2026-07-08,P/T,EMV,3,Boldo,Peumus boldus,3,7,cm,EMV_3,EMV_3_3
+2026-07-08,P/T,EMV,3,Boldo,Peumus boldus,3,12.1,cm,EMV_3,EMV_3_3
+2026-07-08,P/T,EMV,3,Boldo,Peumus boldus,3,5.5,cm,EMV_3,EMV_3_3
+2026-07-08,P/T,EMV,3,Boldo,Peumus boldus,3,7.5,cm,EMV_3,EMV_3_3
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,8.9,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,15.3,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,6.5,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,9.1,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,12.4,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,3.8,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,7.9,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,7.1,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,5.2,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,9.4,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,9.3,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,9.8,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,4,6.4,cm,EMV_3,EMV_3_4
+2026-07-08,P/T,EMV,3,Peumo,Cryptocarya alba,5,10.1,cm,EMV_3,EMV_3_5
+2026-07-08,P/T,EMV,3,Peumo,Cryptocarya alba,5,6.4,cm,EMV_3,EMV_3_5
+2026-07-08,P/T,EMV,3,Litre,Lithraea caustica,6,6.9,cm,EMV_3,EMV_3_6
