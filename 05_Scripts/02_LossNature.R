@@ -1,5 +1,5 @@
 #===============================================================================
-# Loss Nature – ECO3
+# Loss Nature 
 # FONDECYT Regular Grant No. 1251095
 #
 # Purpose:
@@ -17,7 +17,7 @@
 #   7. Align the continuous proportion layer to the Road Density master grid.
 #
 # Output:
-#   OUT/03_INTERMEDIATE/LossNature/Loss_Nature_ECO3.tif
+#   OUT/03_INTERMEDIATE/LossNature/Loss_Nature.tif
 #===============================================================================
 
 library(terra)
@@ -50,7 +50,7 @@ mask_poly <- vect(file.path(out_dir, "03_INTERMEDIATE", "Masks",
 
 # Road Density defines the master 1 km grid
 roads_1km <- rast(file.path(out_dir, "03_INTERMEDIATE", "RoadDensity",
-                            "Road_density_ECO3.tif"))
+                            "Road_density.tif"))
 
 # 2. Define the aligned ~1 km aggregation grid
 #-------------------------------------------------------------------------------
@@ -180,7 +180,7 @@ stopifnot(compareGeom(loss_aligned, roads_1km, stopOnError = TRUE))
 
 writeRaster(
   loss_aligned,
-  file.path(out_loss, "Loss_Nature_ECO3.tif"),
+  file.path(out_loss, "Loss_Nature.tif"),
   datatype = "FLT4S",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")

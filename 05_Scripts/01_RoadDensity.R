@@ -1,5 +1,5 @@
 #===============================================================================
-# Road Density – ECO3
+# Road Density 
 # FONDECYT Regular Grant No. 1251095
 #
 # Purpose:
@@ -124,7 +124,7 @@ dens_final_trim <- trim(dens_final)
 
 writeRaster(
   dens_final,
-  file.path(out_roads, "Road_density_ECO3.tif"),
+  file.path(out_roads, "Road_density.tif"),
   datatype = "FLT4S",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")
@@ -132,7 +132,7 @@ writeRaster(
 
 writeRaster(
   dens_final_trim,
-  file.path(out_roads, "Road_density_ECO3_trim.tif"),
+  file.path(out_roads, "Road_density_trim.tif"),
   datatype = "FLT4S",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")

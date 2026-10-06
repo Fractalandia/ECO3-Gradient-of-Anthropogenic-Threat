@@ -1,9 +1,9 @@
 #===============================================================================
-# Integrated Gradient of Anthropogenic Threats (gAT) – ECO3
+# Integrated Gradient of Anthropogenic Threats (gAT) 
 # FONDECYT Regular Grant No. 1251095
 #
 # Purpose:
-# Integrate the three final anthropogenic threat indicators for ECO3:
+# Integrate the three final anthropogenic threat indicators:
 #   - Road Density
 #   - Loss Nature
 #   - Global Human Modification (gHM)
@@ -12,9 +12,6 @@
 # Urban areas plus a 1 km buffer are then excluded, and the resulting continuous
 # gradient is classified into five empirical quintiles.
 #
-# Main outputs:
-#   OUT/01_FINAL_INDEX/gAT_ECO3.tif
-#   OUT/01_FINAL_INDEX/gAT_quintiles_ECO3.tif
 #===============================================================================
 
 library(terra)
@@ -22,28 +19,16 @@ library(sf)
 
 terraOptions(progress = 1, memfrac = 0.8)
 
-#Paths
-base_dir <- "D:/Mapas_R"
-
-out_dir    <- file.path(base_dir, "OUT")
-vector_dir <- file.path(base_dir, "Vector")
-dir_index  <- file.path(out_dir, "01_FINAL_INDEX")
-
-if (!dir.exists(dir_index)) dir.create(dir_index, recursive = TRUE)
+# Paths
+spatial_dir <- "01_spatial"
 
 # 1. Input layers
 #-------------------------------------------------------------------------------
 
-path_roads <- file.path(out_dir, "03_INTERMEDIATE", "RoadDensity",
-                        "Road_density_ECO3.tif")
-
-path_loss <- file.path(out_dir, "03_INTERMEDIATE", "LossNature",
-                       "Loss_Nature_ECO3.tif")
-
-path_ghm <- file.path(out_dir, "03_INTERMEDIATE", "gHM",
-                      "GHM_ECO3.tif")
-
-path_urban <- file.path(vector_dir, "urbano_buffer1km.gpkg")
+path_roads <- file.path(spatial_dir, "Road_density.tif")
+path_loss  <- file.path(spatial_dir, "Loss_Nature.tif")
+path_ghm   <- file.path(spatial_dir, "GHM.tif")
+path_urban <- file.path(spatial_dir, "urbano_buffer1km.gpkg")
 
 required_files <- c(path_roads, path_loss, path_ghm, path_urban)
 
@@ -104,7 +89,7 @@ names(gAT_noUrban) <- "gAT"
 
 writeRaster(
   gAT_noUrban,
-  file.path(dir_index, "gAT_ECO3.tif"),
+  file.path(spatial_dir, "gAT.tif"),
   datatype = "FLT4S",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")
@@ -142,7 +127,7 @@ names(gAT_quintiles) <- "gAT_level_1_5"
 
 writeRaster(
   gAT_quintiles,
-  file.path(dir_index, "gAT_quintiles_ECO3.tif"),
+  file.path(spatial_dir, "gAT_quintiles.tif"),
   datatype = "INT1U",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")

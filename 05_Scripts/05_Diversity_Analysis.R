@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# ECO3 – ANÁLISIS DE BIODIVERSIDAD / selección de sitios 
+# ANÁLISIS DE BIODIVERSIDAD 
 #
 # Este script calcula la diversidad vegetal de los sitios BIO3 a partir de
 # los registros de vegetación obtenidos en terreno.
@@ -17,23 +17,36 @@ library(tidyverse)
 library(vegan)
 library(iNEXT)
 
-#RUTAS Y PARÁMETROS
-veg_file <- paste0(
-  "C:/Users/Dell/Desktop/Patricio_clean_data/",
-  "06_exports/StructurePlots_Clean.csv"
+# Paths
+field_dir <- "02_field"
+out_dir   <- file.path("04_integrated_data", "diversity")
+
+veg_file <- file.path(
+  field_dir,
+  "StructurePlots_Clean.csv"
 )
 
-sites_file <- "C:/Users/Dell/Desktop/0_sitio.xlsx - Sheet1.csv"
-
-out_dir <- paste0(
-  "C:/Users/Dell/Desktop/Patricio_clean_data/",
-  "08_Diversity_ANALYSIS"
+sites_file <- file.path(
+  field_dir,
+  "0_sitio.xlsx - Sheet1.csv"
 )
 
 species_ref_file <- file.path(
   out_dir,
   "00_species_reference.csv"
 )
+
+required_files <- c(
+  veg_file,
+  sites_file
+)
+
+if (!all(file.exists(required_files))) {
+  stop(
+    "One or more required input files are missing:\n",
+    paste(required_files[!file.exists(required_files)], collapse = "\n")
+  )
+}
 
 # Parámetros del análisis
 #-------------------------------------------------------------------------------
@@ -727,7 +740,7 @@ print(
 #   site_diversity_summary,
 #   file.path(
 #     out_dir,
-#     "Diversity_total_ECO3.csv"
+#     "Diversity_total.csv"
 #   )
 # )
 
@@ -935,7 +948,7 @@ print(
 #   site_diversity_native_summary,
 #   file.path(
 #     out_dir,
-#     "Diversity_native_ECO3.csv"
+#     "Diversity_native.csv"
 #   )
 # )
 
@@ -1199,7 +1212,7 @@ print(
 #   site_diversity_exotic_summary,
 #   file.path(
 #     out_dir,
-#     "Diversity_exotic_ECO3.csv"
+#     "Diversity_exotic.csv"
 #   )
 # )
 
@@ -1235,7 +1248,7 @@ site_native_exotic_composition <- native_exotic_summary %>%
 #   site_native_exotic_composition,
 #   file.path(
 #     out_dir,
-#     "Native_exotic_composition_ECO3.csv"
+#     "Native_exotic_composition.csv"
 #   )
 # )
 
@@ -1337,7 +1350,7 @@ figure_diversity_total <- ggplot(
     x = "Site",
     y = "Hill diversity",
     color = "Anthropization level",
-    title = "Plant diversity ECO3",
+    title = "Plant diversity",
     subtitle = paste0(
       "Hill numbers standardized at ",
       coverage_level * 100,
@@ -1368,7 +1381,7 @@ figure_diversity_total
 # ggsave(
 #   filename = file.path(
 #     out_dir,
-#     "Figure_diversity_total_ECO3.png"
+#     "Figure_diversity_total.png"
 #   ),
 #   plot = figure_diversity_total,
 #   width = 8,
@@ -1441,7 +1454,7 @@ figure_diversity_native <- ggplot(
     x = "Site",
     y = "Hill diversity",
     color = "Anthropization level",
-    title = "Native plant diversity ECO3",
+    title = "Native plant diversity",
     subtitle = paste0(
       "Hill numbers standardized at ",
       round(
@@ -1475,7 +1488,7 @@ figure_diversity_native
 # ggsave(
 #   filename = file.path(
 #     out_dir,
-#     "Figure_diversity_native_ECO3.png"
+#     "Figure_diversity_native.png"
 #   ),
 #   plot = figure_diversity_native,
 #   width = 8,

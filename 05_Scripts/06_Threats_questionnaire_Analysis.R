@@ -1,37 +1,43 @@
 #===============================================================================
-# QUESTIONNAIRE THREAT ANALYSIS – ECO3
+# QUESTIONNAIRE THREAT ANALYSIS 
 #===============================================================================
 #
 # Input:
 #   questionnaire_anonymized_raw.csv
 #
 # Analytical calculations are unchanged from the verified questionnaire workflow.
-# Final ECO3 quintiles are used only as graphical metadata.
+# Final quintiles are used only as graphical metadata.
 #===============================================================================
 
 library(tidyverse)
 library(lubridate)
 library(janitor)
 
-#PATHS
-desktop <- "C:/Users/Dell/Desktop"
-
+# Paths
+questionnaire_dir <- "03_questionnaire"
 questionnaire_out_dir <- file.path(
-  desktop,
-  "Patricio_clean_data",
-  "09_Questionnaire_ANALYSIS"
-)
-
-dir.create(
-  questionnaire_out_dir,
-  recursive = TRUE,
-  showWarnings = FALSE
+  "04_integrated_data",
+  "questionnaire"
 )
 
 raw_file <- file.path(
-  questionnaire_out_dir,
+  questionnaire_dir,
   "questionnaire_anonymized_raw.csv"
 )
+
+if (!file.exists(raw_file)) {
+  stop(
+    "Required questionnaire input file is missing:\n",
+    raw_file
+  )
+}
+
+if (!dir.exists(questionnaire_out_dir)) {
+  dir.create(
+    questionnaire_out_dir,
+    recursive = TRUE
+  )
+}
 
 raw <- read.csv(
   raw_file,
@@ -52,7 +58,7 @@ valid_sites <- c(
   "CVLL", "PILC", "ACog", "CLVR", "QdM", "EMV"
 )
 
-# Final ECO3 anthropization quintiles.
+# Final anthropization quintiles.
 # Used only for figure metadata; they do not enter questionnaire calculations.
 site_quintiles <- tibble(
   site_code = c(
@@ -961,18 +967,18 @@ fig_questionnaire_network
 # 8.3.5 Export questionnaire correlation network
 questionnaire_network_output <- file.path(
   questionnaire_out_dir,
-  "Figure_questionnaire_network_ECO3.png"
+  "Figure_questionnaire_network.png"
 )
 
-ggsave(
-  filename = questionnaire_network_output,
-  plot = fig_questionnaire_network,
-  width = 9,
-  height = 8.2,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = questionnaire_network_output,
+#   plot = fig_questionnaire_network,
+#   width = 9,
+#   height = 8.2,
+#   units = "in",
+#   dpi = 600,
+#   bg = "white"
+# )
 
 cat(
   "\nQuestionnaire correlation network exported successfully:\n",
@@ -1057,7 +1063,7 @@ print(site_index)
 
 # 11.1 FIGURE 1: THREAT INDEX BY SITE
 #-------------------------------------------------------------------------------
-# Final ECO3 quintiles are used only to color sites consistently with the
+# Final quintiles are used only to color sites consistently with the
 # anthropization gradient.
 
 site_plot <- site_index %>%
@@ -1296,42 +1302,42 @@ fig2 <- ggplot(
 
 fig2
 
-ggsave(
-  filename = file.path(
-    questionnaire_out_dir,
-    "Figure_threat_index_ECO3.png"
-  ),
-  plot = fig1,
-  width = 7.5,
-  height = 5.5,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(
+#     questionnaire_out_dir,
+#     "Figure_threat_index.png"
+#   ),
+#   plot = fig1,
+#   width = 7.5,
+#   height = 5.5,
+#   units = "in",
+#   dpi = 600,
+#   bg = "white"
+# )
 
-ggsave(
-  filename = file.path(
-    questionnaire_out_dir,
-    "Figure_threat_profile_ECO3.png"
-  ),
-  plot = fig2,
-  width = 8.5,
-  height = 6,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(
+#     questionnaire_out_dir,
+#     "Figure_threat_profile.png"
+#   ),
+#   plot = fig2,
+#   width = 8.5,
+#   height = 6,
+#   units = "in",
+#   dpi = 600,
+#   bg = "white"
+# )
 
 cat(
   "\nFigures exported successfully:\n",
   file.path(
     questionnaire_out_dir,
-    "Figure_threat_index_ECO3.png"
+    "Figure_threat_index.png"
   ),
   "\n",
   file.path(
     questionnaire_out_dir,
-    "Figure_threat_profile_ECO3.png"
+    "Figure_threat_profile.png"
   ),
   "\n"
 )
@@ -1439,47 +1445,47 @@ fig3 <- ggplot(
 
 fig3
 
-ggsave(
-  file.path(
-    questionnaire_out_dir,
-    "Figure_evaluator_agreement_ECO3.png"
-  ),
-  fig3,
-  width = 8,
-  height = 6,
-  dpi = 300
-)
+# ggsave(
+#   file.path(
+#     questionnaire_out_dir,
+#     "Figure_evaluator_agreement.png"
+#   ),
+#   fig3,
+#   width = 8,
+#   height = 6,
+#   dpi = 300
+# )
 
 # 14. EXPORTAR TABLAS
 #-------------------------------------------------------------------------------
 
 # write.csv(
 #   threat_scored,
-#   file.path(desktop, "survey_threats_long_scored.csv"),
+#   file.path(questionnaire_out_dir, "survey_threats_long_scored.csv"),
 #   row.names = FALSE
 # )
 #
 # write.csv(
 #   interview_index,
-#   file.path(desktop, "survey_index_by_interview.csv"),
+#   file.path(questionnaire_out_dir, "survey_index_by_interview.csv"),
 #   row.names = FALSE
 # )
 #
 # write.csv(
 #   evaluator_index,
-#   file.path(desktop, "survey_index_by_evaluator.csv"),
+#   file.path(questionnaire_out_dir, "survey_index_by_evaluator.csv"),
 #   row.names = FALSE
 # )
 #
 # write.csv(
 #   site_index,
-#   file.path(desktop, "survey_index_by_site.csv"),
+#   file.path(questionnaire_out_dir, "survey_index_by_site.csv"),
 #   row.names = FALSE
 # )
 #
 # write.csv(
 #   agreement,
-#   file.path(desktop, "survey_agreement_admin_vs_researcher.csv"),
+#   file.path(questionnaire_out_dir, "survey_agreement_admin_vs_researcher.csv"),
 #   row.names = FALSE
 # )
 
@@ -1527,7 +1533,7 @@ if (any(is.na(site_questionnaire_summary$threat_mean))) {
 # Export final questionnaire summary
 questionnaire_output <- file.path(
   questionnaire_out_dir,
-  "Questionnaire_summary_ECO3.csv"
+  "Questionnaire_summary.csv"
 )
 
 write_csv(

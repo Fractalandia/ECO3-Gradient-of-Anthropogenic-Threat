@@ -1,5 +1,5 @@
 #===============================================================================
-# Global Human Modification (gHM) – ECO3
+# Global Human Modification (gHM) 
 # FONDECYT Regular Grant No. 1251095
 #
 # Purpose:
@@ -9,7 +9,7 @@
 # scale.
 #
 # Main output:
-#   OUT/03_INTERMEDIATE/gHM/GHM_ECO3.tif
+#   OUT/03_INTERMEDIATE/gHM/GHM.tif
 #===============================================================================
 
 library(terra)
@@ -33,7 +33,7 @@ ghm_raw <- rast(file.path(mask_dir, "nv_gHM.tif"))
 
 # Road Density defines the master 1 km grid
 roads01 <- rast(file.path(out_dir, "03_INTERMEDIATE", "RoadDensity",
-                          "Road_density_ECO3.tif"))
+                          "Road_density.tif"))
 
 # ECO3 <2000 m study-area mask
 mask_poly <- vect(file.path(out_dir, "03_INTERMEDIATE", "Masks",
@@ -74,7 +74,7 @@ stopifnot(compareGeom(ghm_1km, roads01, stopOnError = TRUE))
 
 writeRaster(
   ghm_1km,
-  file.path(out_ghm, "GHM_ECO3.tif"),
+  file.path(out_ghm, "GHM.tif"),
   datatype = "FLT4S",
   overwrite = TRUE,
   wopt = list(gdal = "COMPRESS=LZW")

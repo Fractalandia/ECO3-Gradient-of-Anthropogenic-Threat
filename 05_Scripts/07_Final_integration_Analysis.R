@@ -1,5 +1,13 @@
 #===============================================================================
-# BIO3 – INTEGRACIÓN FINAL DE RESULTADOS
+# Final Integration Analysis
+# FONDECYT Regular Grant No. 1251095
+#
+# Purpose:
+# Integrate the spatial anthropization gradient, field biodiversity data,
+# and threat assessments to evaluate candidate-site representativeness,
+# concordance among site-selection components, and alternative site
+# combinations across the gAT.
+#
 #===============================================================================
 
 library(tidyverse)
@@ -8,19 +16,22 @@ library(patchwork)
 library(ggrepel)
 library(scales)
 
-# Archivos principales
+# Paths
+spatial_dir    <- "01_spatial"
+integrated_dir <- "04_integrated_data"
+output_dir <- file.path(integrated_dir, "final_analysis")
 
-master_path <- "C:/Users/Dell/Desktop/master_raw_FINAL.csv"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
 
-index_path <- "C:/Users/Dell/Desktop/revision_index/gAT_ECO3.tif"
-
-quintile_path <- "C:/Users/Dell/Desktop/revision_index/gAT_quintiles_ECO3.tif"
-
-loss_path <- "C:/Users/Dell/Desktop/revision_index/Loss_Nature_ECO3.tif"
-
-roads_path <- "D:/Mapas_R/OUT/03_INTERMEDIATE/RoadDensity/Road_density_ECO3.tif"
-
-ghm_path <- "C:/Users/Dell/Desktop/revision_index/GHM_ECO3.tif"
+# Main input files
+master_path   <- file.path(integrated_dir, "master_raw_FINAL.csv")
+index_path    <- file.path(spatial_dir, "gAT.tif")
+quintile_path <- file.path(spatial_dir, "gAT_quintiles.tif")
+loss_path     <- file.path(spatial_dir, "Loss_Nature.tif")
+roads_path    <- file.path(spatial_dir, "Road_density.tif")
+ghm_path      <- file.path(spatial_dir, "GHM.tif")
 
 # datos
 master_raw <- read_csv(
@@ -381,14 +392,14 @@ figure_1 <- wrap_plots(
 
 figure_1
 
-ggsave(
-  filename = "C:/Users/Dell/Desktop/Figure_spatial_components_ECO3.png",
-  plot = figure_1,
-  width = 10.5,
-  height = 6.2,
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(output_dir, "Figure_spatial_components.png"),
+#   plot = figure_1,
+#   width = 10.5,
+#   height = 6.2,
+#   dpi = 600,
+#   bg = "white"
+# )
 
 # 2. REPRESENTATIVIDAD DE LOS SITIOS EN EL GRADIENTE DE ANTROPIZACIÓN
 #-------------------------------------------------------------------------------
@@ -816,14 +827,14 @@ figure_SIG_position <- ggplot() +
 
 figure_SIG_position
 
-ggsave(
-  filename = "C:/Users/Dell/Desktop/Figure_candidate_site_positions_ECO3.png",
-  plot = figure_SIG_position,
-  width = 10,
-  height = 7.5,
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(output_dir, "Figure_candidate_site_positions.png"),
+#   plot = figure_SIG_position,
+#   width = 10,
+#   height = 7.5,
+#   dpi = 600,
+#   bg = "white"
+# )
 
 # 3. CONCORDANCIA ENTRE SIG, AMENAZAS Y BIODIVERSIDAD NATIVA
 #-------------------------------------------------------------------------------
@@ -1202,17 +1213,14 @@ combined_concordance_figure <-
 
 combined_concordance_figure
 
-ggsave(
-  filename = paste0(
-    "C:/Users/Dell/Desktop/",
-    "Figure_SIG_threat_native_concordance_ECO3.png"
-  ),
-  plot = combined_concordance_figure,
-  width = 15.5,
-  height = 7.2,
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(output_dir, "Figure_SIG_threat_native_concordance.png"),
+#   plot = combined_concordance_figure,
+#   width = 15.5,
+#   height = 7.2,
+#   dpi = 600,
+#   bg = "white"
+# )
 
 # 4. Correlation Network- RELACIONES ENTRE LOS COMPONENTES DE SELECCIÓN
 #-------------------------------------------------------------------------------
@@ -1776,16 +1784,16 @@ figure_correlation_network <- ggplot() +
   )
 
 
-figure_correlation_network
-
-ggsave(
-  filename = "C:/Users/Dell/Desktop/Figure_correlation_network_ECO3.png",
-  plot = figure_correlation_network,
-  width = 9,
-  height = 8,
-  dpi = 600,
-  bg = "white"
-)
+# figure_correlation_network
+# 
+# ggsave(
+#   filename = file.path(output_dir, "Figure_correlation_network.png"),
+#   plot = figure_correlation_network,
+#   width = 9,
+#   height = 8,
+#   dpi = 600,
+#   bg = "white"
+# )
 
 # 5. OPTIMIZACIÓN MULTIVARIADA DE LAS COMBINACIONES DE SITIOS
 #-------------------------------------------------------------------------------
@@ -2237,17 +2245,14 @@ figure_multivariate_selection <- ggplot(
 
 figure_multivariate_selection
 
-ggsave(
-  filename = paste0(
-    "C:/Users/Dell/Desktop/",
-    "Figure_multivariate_site_selection_ECO3.png"
-  ),
-  plot = figure_multivariate_selection,
-  width = 8.5,
-  height = 6.5,
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(output_dir, "Figure_multivariate_site_selection.png"),
+#   plot = figure_multivariate_selection,
+#   width = 8.5,
+#   height = 6.5,
+#   dpi = 600,
+#   bg = "white"
+# )
 
 # 6. Versión pasadas/Otros- ANÁLISIS DE SENSIBILIDAD
 #-------------------------------------------------------------------------------
@@ -3847,12 +3852,12 @@ figure_continuous_selection <- ggplot(
 
 figure_continuous_selection
 
-ggsave(
-  filename = "C:/Users/Dell/Desktop/Figure_continuous_gradient_selection_ECO3.png",
-  plot = figure_continuous_selection,
-  width = 8.5,
-  height = 6.5,
-  dpi = 600,
-  bg = "white"
-)
+# ggsave(
+#   filename = file.path(output_dir, "Figure_continuous_gradient_selection.png"),
+#   plot = figure_continuous_selection,
+#   width = 10,
+#   height = 7.5,
+#   dpi = 600,
+#   bg = "white"
+# )
 
