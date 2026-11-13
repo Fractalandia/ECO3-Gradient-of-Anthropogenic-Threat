@@ -1,1 +1,46 @@
-<h1>Hello World!</h1>
+# Gradient of Anthropogenic Threat — website starter
+
+A responsive static website based on the repository README and inspired by the GRooT reference layout.
+
+## Files
+- `index.html` — page structure and repository-derived content.
+- `styles.css` — visual design, right-hand vertical navigation and responsive layout.
+- `script.js` — mobile navigation and active-section highlighting.
+
+## Run locally
+Open `index.html` in a browser. No build step is required.
+
+## Add real maps and figures later
+The page currently contains clearly marked placeholders. Replace each placeholder `<div>` in `index.html` with an image, embedded map, or chart container when the final outputs are ready.
+
+Suggested asset structure:
+```text
+assets/
+  central-chile-landscape.jpg
+  road-density-map.png
+  loss-natural-ecosystems-map.png
+  ghm-map.png
+  gat-map.png
+  biodiversity-diversity.png
+  questionnaire-threats.png
+  final-integration.png
+  study-sites-map.png
+```
+
+For a simple image replacement, replace a placeholder block with:
+```html
+<img class="figure-image" src="assets/gat-map.png" alt="Gradient of Anthropogenic Threat map">
+```
+and add this CSS:
+```css
+.figure-image { display:block; width:100%; height:auto; object-fit:contain; }
+```
+
+## Before publishing
+1. Replace the placeholder GitHub link in `index.html` with the actual repository URL.
+2. Add real maps and plots to `assets/` when available.
+3. Publish the folder with GitHub Pages (Settings → Pages → deploy from branch).
+
+## Content note
+Scientific descriptions and references follow the supplied repository README. No numerical results, map outputs, or empirical findings have been fabricated.
+
